@@ -1,6 +1,6 @@
 # Hi, I'm Franco 👋
  
-**IT Technician** graduated from E.E.T.P. N°478 · **B.Sc. in Artificial Intelligence Engineering** student at FICH-UNL, Argentina.
+**IT Technician** graduated from E.E.T.P. N°478 | **B.Sc. in Artificial Intelligence Engineering** student at FICH-UNL, Argentina.
  
 I build complete web systems integrating front-end, back-end, databases and — when the project calls for it — physical hardware.
  
