@@ -63,7 +63,7 @@ Multi-role academic web platform for students, teachers, homeroom teachers and g
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-francosbringas-blue?style=flat&logo=linkedin)](https://linkedin.com/in/francosbringas)
 [![Fiverr](https://img.shields.io/badge/Fiverr-francosbringas-1DBF73?style=flat&logo=fiverr)](https://www.fiverr.com/francosbringas)
-[![Email](https://img.shields.io/badge/Email-francosbringas@gmail.com-red?style=flat&logo=gmail)](mailto:francosbringas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-francosbringas@gmail.com-red?style=flat&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=francosbringas@gmail.com)
 
 ---
 
