@@ -1,6 +1,6 @@
 # Hi, I'm Franco 👋
  
-**IT Technician** graduated from E.E.T.P. N°478 | **B.Sc. in Artificial Intelligence Engineering** student at FICH-UNL, Argentina.
+**IT Technician** graduated from E.E.T.P. N°478, Argentina.
  
 I build complete web systems integrating front-end, back-end, databases and — when the project calls for it — physical hardware.
  
@@ -70,7 +70,6 @@ Venture capital and deep-tech platform built in 24 hours as a technical evaluati
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-francosbringas-blue?style=flat&logo=linkedin)](https://linkedin.com/in/francosbringas)
-[![Fiverr](https://img.shields.io/badge/Fiverr-francosbringas-1DBF73?style=flat&logo=fiverr)](https://www.fiverr.com/francosbringas)
 [![Email](https://img.shields.io/badge/Email-francosbringas@gmail.com-red?style=flat&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=francosbringas@gmail.com)
 
 ---
